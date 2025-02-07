@@ -1,5 +1,7 @@
 # AdviseU
 
+[Launched here!](https://adviseu.vercel.app)
+
 A web application designed to help students and advisors at Oregon State University (OSU) generate an optimal course plan for the remainder of a student's time in school. The application considers multiple factors to develop a balanced and personalized course schedule.
 
 ## Features
