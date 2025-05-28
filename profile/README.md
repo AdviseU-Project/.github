@@ -4,6 +4,15 @@
 
 A web application designed to help students and advisors at Oregon State University (OSU) generate an optimal course plan for the remainder of a student's time in school. The application considers multiple factors to develop a balanced and personalized course schedule.
 
+## Project Structure (Repositories: **Some Private**)
+
+Full documentation, including setup instructions, deployment procedures, and testing procedures in each repository's respective `README.md`.
+
+- **AdviseU-App-Web**: Main application, a Next.js app, with an intermixed frontend and backend for handling most logic and user interactions.
+- **AdviseU-Backend**: High-performance backend server for our scheduling algorithm.
+- **AdviseU-Lib-Scrapers**: Various web and API scrapers to source data from Oregon State University websites and APIs.
+- **AdviseU-Lib-EmbeddingProcessor**: Python program to generate vector embeddings to populate the vector database with courses for semantic search.
+
 ## Features
 
 - **Degree Requirements**: Automatically incorporates degree-specific course requirements.
